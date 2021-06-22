@@ -1,0 +1,21 @@
+h1 {
+  background-color: rgb(3, 180, 235);
+  color: darkgreen;
+  text-align: left;
+}
+h1 span {
+  color: darksalmon;
+}
+h2 {
+  background-color: blueviolet;
+  color: rgba(5, 0, 0, 0.911);
+  text-align: center;
+  font-style: italic;
+}
+
+h3 {
+  background-color: chartreuse;
+  color: rgb(255, 2, 221);
+  text-align: right;
+  text-decoration: underline;
+}
